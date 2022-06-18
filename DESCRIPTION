@@ -1,0 +1,16 @@
+Package: AMaxt4
+Type: Package
+Title: AMax-T test package
+Version: 0.1.0
+Author: Anjana Mondal
+Maintainer: Anjana Mondal <mondal.anjana25@gmail.com>
+Description: This package find test statistic value critical value of 
+             asymptotic Max-T test for testing
+            equality of means against ordered alternative in one-way ANOVA model
+            with heteroscedasticity when number of groups is 4.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends: MASS
+RoxygenNote: 7.1.1
+
